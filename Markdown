@@ -1,0 +1,14 @@
+# Monetiza BC
+
+![Logo Monetiza BC](assets/logo-monetiza-bc.png)
+![Banner Promocional](assets/banner-monetiza-bc.jpg)
+
+> Monetiza Fácil, Vive Mejor  
+> App de monetización digital desarrollada en Baja California.
+
+## Descripción
+Monetiza BC permite a los creadores gestionar ingresos, pagos y seguridad digital con integración local (MercadoPago, KYC, y privacidad avanzada).
+
+## Enlaces
+- [Repositorio principal](https://github.com/Lmillan12co/monetiza-bc)
+- [Documentación técnica](docs/)
