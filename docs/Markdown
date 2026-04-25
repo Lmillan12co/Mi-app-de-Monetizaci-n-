@@ -1,0 +1,19 @@
+# Manual Técnico - Monetiza BC
+
+## 📲 Instalación
+
+### Requisitos previos
+- Android 10.0 o superior
+- Node.js >= 18
+- npm o yarn
+- Cuenta de Firebase configurada
+- Claves de API para:
+  - MercadoPago
+  - Google Maps
+  - Google Vision
+
+### Pasos de instalación
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/Lmillan12co/monetiza-bc.git
+   cd monetiza-bc
